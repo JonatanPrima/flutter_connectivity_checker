@@ -1,4 +1,4 @@
-name: flutter_reachability
+name: flutter_connectivity_checker
 description:
   This plugin allows Flutter applications to detect network changes. You can know the detailed mobile network types such as 2G, 3G, 4G, 5G. This plug-in is suitable for iOS and Android.
 version: 1.0.0
